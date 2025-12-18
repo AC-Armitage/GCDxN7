@@ -13,7 +13,7 @@ This repository contains DFIR (Digital Forensics and Incident Response) writeups
 The following challenges are documented in this repository:
 
 - **Ping Pong** - DFIR Challenge
-- **White Whale** - DFIR Challenge  
+- **White Whale** - DFIR Challenge
 - **Goyslop** - DFIR Challenge
 
 ## Challenge Writeups
@@ -30,4 +30,4 @@ Created by AC-Armitage for GCDxN7 CTF
 
 ## License
 
-This repository is for educational purposes. All rights reserved.
+This repository is for educational purposes.
