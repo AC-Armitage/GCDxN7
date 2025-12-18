@@ -1,4 +1,4 @@
-![[![](Goyslop/images/0.png)
+![[![](images/0.png)
 ]]
 ![](Goyslop/images/1.png)
 
